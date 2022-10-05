@@ -29,6 +29,7 @@ namespace addressbook_tests_autoit
                 list.Add(new GroupData()
                 {
                     Name = item
+
                 });
             }   
 
